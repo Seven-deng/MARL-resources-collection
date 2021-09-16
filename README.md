@@ -131,12 +131,8 @@ UCAS|[Haifeng Zhang](https://pkuzhf.github.io/)|[link](http://marl.ia.ac.cn/inde
 ### In Chinese
 * http://www.neurondance.com/
 * https://www.zhihu.com/question/376068768
-* https://www.zhihu.com/question/323584412
 * https://zhuanlan.zhihu.com/p/372558232
 * https://space.bilibili.com/4801051?spm_id_from=333.788.b_765f7570696e666f.2
-* https://www.zhihu.com/people/tian-yuan-dong
-* https://www.zhihu.com/people/eyounx
-* https://www.zhihu.com/people/wan-shang-zhu-ce-de
 * Wechat public account: AIORHHC; RLCN
 * https://www.bilibili.com/video/av925922430/
 * https://www.bilibili.com/video/av626777400/
